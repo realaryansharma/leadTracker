@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "2.0",
+    "dessription" : "This extension helps you to save the tabs, so that you can access them easily",
+    "name": "Leads Collecter By Aryan Sharma",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

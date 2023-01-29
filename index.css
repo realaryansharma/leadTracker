@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Poppins', sans-serif;
+    min-width: 400px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: none;
+    box-shadow:0 0 20px rgba(117, 114, 114, 0.8);
+    border-radius: 8px;
+    margin-bottom: 4px;
+}
+
+button {
+    background: #8c6ddbe8;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+    list-style-type: none;
+    color: #5b36b7e8;
+    padding-top : 5px;
+}
+
+
